@@ -12,7 +12,7 @@ Clifford Multivector Toolbox is required.
 
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/141c8d5c-384a-4220-af49-d2431bf6a16c) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/c57f409a-f56d-46b6-8789-02b49c3ffe12) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/75b11f15-94a5-43f9-a005-476d4007345b)
 
-![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/db55082f-d27b-4c5a-b292-802b841770fc)
+# Noise
 
 
 
