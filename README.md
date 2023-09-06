@@ -16,7 +16,7 @@ Clifford Multivector Toolbox is required.
 
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/78b540de-8514-49c1-91d5-28488036f953) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/44ef9d9d-3cb6-4a1d-baad-fcaa608b83dc) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/e7640631-da79-4a44-8f64-fffa2950ae5c)
 
-![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/69055bce-f701-45fd-afca-d7d280b00154) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/632bc009-843a-4a1b-817c-ab658a35920b) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/bd29521e-b7f2-4d71-ba05-d632a02a57d9)
+P2Point: ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/69055bce-f701-45fd-afca-d7d280b00154) P2Plane![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/632bc009-843a-4a1b-817c-ab658a35920b) SphericalCM: ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/bd29521e-b7f2-4d71-ba05-d632a02a57d9)
 
 
 
