@@ -5,12 +5,16 @@ Clifford Multivector Toolbox is required.
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/6c5c0c74-c830-4ff1-aefe-33b62d9e3441) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/350d3783-70ae-4767-a1b3-319d8b164740)
 
 
-
-
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/677dac36-3ffb-412b-bbe2-bbe1fcd7cc99) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/12c3560c-f1c6-4aab-a63e-b8d4c03fbe69)
 
 
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/2493aec2-f2c6-4f4f-8990-4e3e1b955ed7) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/d0342de5-7365-4510-a453-66a875264ab3) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/4b1d6386-fc8d-4973-82d0-74f66247abda)
+
+![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/141c8d5c-384a-4220-af49-d2431bf6a16c) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/c57f409a-f56d-46b6-8789-02b49c3ffe12) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/75b11f15-94a5-43f9-a005-476d4007345b)
+
+![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/db55082f-d27b-4c5a-b292-802b841770fc)
+
+
 
 
 
