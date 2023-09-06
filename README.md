@@ -19,7 +19,7 @@ Clifford Multivector Toolbox is required.
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/74ef92f0-e1e4-4eb0-a6f2-c39402b6140f) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/276083ee-e8a4-4868-8fd2-974ef28381db) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/6bf26beb-4480-47e0-9e45-e7336f237323)
 
 
-Top Row: point2point, point2plane
+Top Row: point2point, point2plane,
 Bottom Row: spherical_CM
 
 
