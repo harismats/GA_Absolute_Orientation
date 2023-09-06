@@ -11,9 +11,6 @@ https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/a9a81693-70
 
 # Comparisons
 
-![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/6c5c0c74-c830-4ff1-aefe-33b62d9e3441) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/350d3783-70ae-4767-a1b3-319d8b164740)
-
-
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/677dac36-3ffb-412b-bbe2-bbe1fcd7cc99) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/12c3560c-f1c6-4aab-a63e-b8d4c03fbe69)
 
 
