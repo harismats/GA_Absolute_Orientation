@@ -2,6 +2,15 @@
 Geometric Algebra Experiments for 3D Registration (3D Euclidean and 4D Spherical spaces). 
 Clifford Multivector Toolbox is required. 
 
+# Spherical CM 
+
+https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/1a3ca3d1-74da-4fdb-8904-b0bb1ce154ee   
+
+https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/a9a81693-7043-4de6-9b03-71c0652c2b5e
+
+
+# Comparisons
+
 ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/6c5c0c74-c830-4ff1-aefe-33b62d9e3441) ![image](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/350d3783-70ae-4767-a1b3-319d8b164740)
 
 
