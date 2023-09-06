@@ -31,6 +31,13 @@ https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/a9a81693-70
 Top Row: point2point, point2plane,
 Bottom Row: spherical_CM
 
+# Patches
+
+![Plant_Patches](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/dc3e6903-67c1-4eaf-b6a5-525b20da2b76)
+![Model_and_Patches_for_Registration](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/e0e08b85-51b1-4d60-be5a-1f24b1591f3e)
+![Plant_Convergences](https://github.com/harismats/GA_Absolute_Orientation/assets/73408879/de5dd40a-91c9-471b-8f9d-a79edc468bff)
+
+
 
 
 
